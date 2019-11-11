@@ -1,1 +1,1 @@
-web: gunicorn must.wsgi --log-file -
+web: gunicorn musts.wsgi --log-file -
